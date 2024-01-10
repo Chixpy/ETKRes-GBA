@@ -1,0 +1,5 @@
+Control butterfree as he collects nectar from flowers. The goal is to collect as much nectar as possible before being hit by a beedrill or weezing. Beedrills will try to hit you, while weezings are stationary obstacles.
+
+The game scrolls to the left allowing you to fly around the screen that is available. Pressing A will make you fly higher.
+
+The game can be accessed by scanning the long dot-code on the Pokemon-e Expedition cards Butterfree (38/165), Metapod (87/165), and Caterpie (96/165). Or in Japan Pokemon e-card expansion 1 cards, Butterfree (66/128), Metapod (33/128), and Caterpie (3/128).

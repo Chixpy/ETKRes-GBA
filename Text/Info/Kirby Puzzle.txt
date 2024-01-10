@@ -1,0 +1,3 @@
+Kirby Slide Puzzle is a simple sliding puzzle contained on a single e-card. The player is presented with an eight tile image of Kirby that has been jumbled, the goal being to shift the pieces and restore his image.
+
+The card was produced to help advertise for a cartoon based on the Kirby character and world, Kirby: Right Back at Ya!, as well as the clusters of cartoons run by Fox called, The FoxBox.

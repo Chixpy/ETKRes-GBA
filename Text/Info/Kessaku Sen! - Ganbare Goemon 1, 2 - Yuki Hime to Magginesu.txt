@@ -1,0 +1,5 @@
+A port of the SNES adventure/platformers Legend of the Mystical Ninja and its sequel, Ganbare Goemon 2: Kiteretsu Shogun Magginesu for the GBA. In both games you play as the wily Goemon, a wacky adventurer from feudal japan, as he attempts to fight evil across the land.
+
+Both games are action platformers, with the unique addition of several mini-games and different gameplay sequences to mix things up a little. Goemon (and his pal Ebisumaru in the sequel) can use a wide variety of weapons and items, which can be collected in-game or bought at special stores.
+
+For the GBA version both games have been updated with a save-game feature, as well as with minor fixes and additions (such as the ability to switch characters on the fly). There's also a new playable character for the second game, new graphic effects and new mini-games which once unlocked can be played directly from the main menu.

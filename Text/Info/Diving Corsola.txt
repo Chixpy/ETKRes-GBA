@@ -1,0 +1,5 @@
+You control Corsola as she dives deep into the ocean. Along the way you'll avoid tentacools and quilfishes while collecting bubbles to fill your lugs with air. Being hit by any of the dangerous fish will result in losing a bit of air. When your air runs out you'll drown. Victory can be achieved by settling at the oceans bottom 100 meters away.
+
+The game automatically scrolls downward, keeping the corsola at it's center. By pressing a horizontal direction and pressing the a button repeatedly you can swim in the selected direction.
+
+The game can be accessed by scanning the long dot-code on the Pokemon-e Expedition cards Corsola (102/165) and Qwilfish (127/165). Or in Japan the Pokemon e-card expansion 1 cards, Corsola (15/128) and Qwilfish (14/128).

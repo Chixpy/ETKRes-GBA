@@ -1,0 +1,5 @@
+The 2004Mbit GBADEV.ORG Competition Game is the result of months of hard work by several individual amateur development teams competing in the GBADEV.ORG 2004 Game Development Competition. The 10 best and most enjoyable games entered in the competition were selected to be made into a multi-game compilation cartridge. Only 500 games were manufactured.
+
+The 10 games on the cartridge: 
+
+1. Bengt - Swinger of Longarm

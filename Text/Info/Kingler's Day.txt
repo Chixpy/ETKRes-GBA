@@ -1,0 +1,5 @@
+A point based game where you control a kingler in a race against time to catch, or rather toss, as many fish as possible. To accomplish this you will move back and forth across a river bank and try to scoop out the goldeens and magikarp while avoiding the quilfish, which will cause you to waste precious time as you recover from their quills.
+
+Holding A determines how deep you'll reach for fish, holding to long will result in you hitting yourself.
+
+The game can be accessed by scanning the long dot-code on the Pokemon-e Expedition cards, Cloyster (42/165), 	Kingler (50/165), Goldeen (111/165), and Magikarp (118/165). Or in Japan the Pokemon e-card expansion 1 cards, Cloyster (78/128), Kingler (79/128), Goldeen (11/128), and Magikarp (12/128).
