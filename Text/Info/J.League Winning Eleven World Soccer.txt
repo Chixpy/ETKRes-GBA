@@ -1,0 +1,5 @@
+In this portable version of the Winning Eleven/Pro Evolution Soccer series the player has control of 44 national teams (plus a few unlockables) and 16 club teams in Master League mode.
+
+The game plays (and given the limitations, feels) like the PSOne versions of the series. Gameplay was tweaked to allow playing with only four buttons, making some actions such as lobbing only accessible through double taps on the passing button, for instance, but still retains the same attention to ball movement and focus on accurate passing as the big versions. Graphically player sprites are pretty much alike the polygonal models with a lot of similar movements.
+
+Game modes include Friendly, League mode, Cup (European Championships, Copa America, CAN, Asian Cup and custom), World Tournament and Master League.
